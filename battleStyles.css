@@ -1,0 +1,17 @@
+.table-cell{
+background-color:rgb(50,205,50);
+}
+
+#clear-shot-win{
+	display:none;
+}
+
+.tbl-alt{
+	border:1px solid black; 
+	margin:25px;
+	padding:25px; 
+}
+
+.ship-img{
+	width:100%;
+}
